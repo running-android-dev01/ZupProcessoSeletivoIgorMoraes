@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZupProcessoSeletivo</string>
+
+    <string name="dialog_name_movie">Por favor, insira o nome do filme.</string>
+    <string name="dialog_name_movie_required">O nome do filme é obrigatório!</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="genre">Gênero:</string>
+    <string name="rated">Avaliado:</string>
+    <string name="released">Estreia:</string>
+    <string name="plot">Sinopse:</string>
+    <string name="runtime">Tempo:</string>
+    <string name="director">Diretor:</string>
+    <string name="writer">Escritor:</string>
+    <string name="actors">Atores:</string>
+    <string name="country">País:</string>
+    <string name="language">Idioma:</string>
+    <string name="awards">Prêmios:</string>
+    <string name="production">Produção:</string>
+    <string name="website">Website:</string>
+</resources>
